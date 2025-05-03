@@ -3,7 +3,7 @@ using BepInEx;
 using HarmonyLib;
 using UnityEngine;
 
-namespace GoToScary
+namespace HorrorSpawn
 {
     [BepInPlugin("elliot.gorillatag", "HorrorSpawn", "1.0.0")]
     public class Main : BaseUnityPlugin
